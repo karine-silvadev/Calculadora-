@@ -2,7 +2,7 @@
 
 Minha primeira calculadora feita com HTML, CSS e JavaScript. 🧮
 
-🔗 **[Acesse o site aqui](https://karinecamposdasilva27-a11y.github.io/Calculadora-/)**
+🔗 **[Acesse o site aqui](https://karine-silvadev.github.io/Calculadora-/)**
 
 ## Funcionalidades
 
@@ -18,7 +18,7 @@ Minha primeira calculadora feita com HTML, CSS e JavaScript. 🧮
 
 ## Sobre o projeto
 
-Este é o meu primeiro projeto publicado no GitHub, criado para praticar os fundamentos de desenvolvimento web e me espcializar. 
+Este é o meu primeiro projeto publicado no GitHub, criado para praticar os fundamentos de desenvolvimento web e me especializar. 
 
 ## Próximos passos
 
