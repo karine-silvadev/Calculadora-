@@ -9,7 +9,8 @@ botoes.forEach(function(botao) {
             visor.value = "";
         } else if (botao.id ==="igual") {
             try {
-                visor.value = eval(visor.value);
+                const conta = visor.value.replace("÷", "/").replaceAll("x","*");
+                visor.value = eval(conta);
             } catch (erro) {
                 visor.value = "Erro";
             }
